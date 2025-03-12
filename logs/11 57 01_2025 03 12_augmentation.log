@@ -1,0 +1,190 @@
+2025-03-12 11:57:01,759 - INFO - Started collecting paths to the original images
+2025-03-12 11:57:01,760 - INFO - Paths have been successfully assembled
+2025-03-12 11:57:01,761 - INFO - 10 images in input dataset
+2025-03-12 11:57:01,762 - INFO - Generation of source image masks started
+2025-03-12 11:57:01,916 - INFO - Masks generation has been successfully completed
+2025-03-12 11:57:01,917 - INFO - 10 masks in masks dataset
+2025-03-12 11:57:01,994 - INFO - Started images augmention process
+2025-03-12 11:57:02,017 - INFO - For Image1 augmentation proccess starting!
+2025-03-12 11:57:02,018 - INFO - Scale Image1 with scale_factor=1.2621596962212736
+2025-03-12 11:57:02,019 - INFO - Shift Image1 with shift_limit=0.18608231618853147
+2025-03-12 11:57:02,020 - INFO - Rotate Image1 with angle=-156.24634811435436
+2025-03-12 11:57:02,021 - INFO - Flip Image1 with flip_mode=0
+2025-03-12 11:57:02,021 - INFO - Applied filter for Image1 with filter_type=canny_edge
+2025-03-12 11:57:02,022 - INFO - Crop Image1 with crop_factor=0.9110228241002553
+2025-03-12 11:57:02,022 - INFO - Change Image1 color with color_mode=hsv_shift
+2025-03-12 11:57:02,023 - INFO - Image1 is successfully augmentated!
+2025-03-12 11:57:02,037 - INFO - For Image2 augmentation proccess starting!
+2025-03-12 11:57:02,038 - INFO - Scale Image2 with scale_factor=0.6747397913717391
+2025-03-12 11:57:02,038 - INFO - Shift Image2 with shift_limit=0.1894554899381515
+2025-03-12 11:57:02,039 - INFO - Rotate Image2 with angle=143.87054300357164
+2025-03-12 11:57:02,039 - INFO - Flip Image2 with flip_mode=1
+2025-03-12 11:57:02,040 - INFO - Applied filter for Image2 with filter_type=sharpen
+2025-03-12 11:57:02,040 - INFO - Crop Image2 with crop_factor=0.871647471690208
+2025-03-12 11:57:02,041 - INFO - Change Image2 color with color_mode=brightness
+2025-03-12 11:57:02,041 - INFO - Image2 is successfully augmentated!
+2025-03-12 11:57:02,049 - INFO - For Image3 augmentation proccess starting!
+2025-03-12 11:57:02,050 - INFO - Scale Image3 with scale_factor=1.014028204802835
+2025-03-12 11:57:02,050 - INFO - Shift Image3 with shift_limit=0.39191821410522915
+2025-03-12 11:57:02,051 - INFO - Rotate Image3 with angle=-96.70362855174092
+2025-03-12 11:57:02,051 - INFO - Flip Image3 with flip_mode=-1
+2025-03-12 11:57:02,052 - INFO - Applied filter for Image3 with filter_type=blur
+2025-03-12 11:57:02,052 - INFO - Crop Image3 with crop_factor=0.7838403432092493
+2025-03-12 11:57:02,053 - INFO - Change Image3 color with color_mode=saturation
+2025-03-12 11:57:02,053 - INFO - Image3 is successfully augmentated!
+2025-03-12 11:57:02,057 - INFO - For Image4 augmentation proccess starting!
+2025-03-12 11:57:02,058 - INFO - Scale Image4 with scale_factor=0.9382633058502947
+2025-03-12 11:57:02,058 - INFO - Shift Image4 with shift_limit=0.12603348585003024
+2025-03-12 11:57:02,059 - INFO - Rotate Image4 with angle=-114.27191932131812
+2025-03-12 11:57:02,059 - INFO - Flip Image4 with flip_mode=-1
+2025-03-12 11:57:02,060 - INFO - Applied filter for Image4 with filter_type=sharpen
+2025-03-12 11:57:02,060 - INFO - Crop Image4 with crop_factor=0.9002685546537159
+2025-03-12 11:57:02,061 - INFO - Change Image4 color with color_mode=hsv_shift
+2025-03-12 11:57:02,061 - INFO - Image4 is successfully augmentated!
+2025-03-12 11:57:02,065 - INFO - For Image5 augmentation proccess starting!
+2025-03-12 11:57:02,066 - INFO - Scale Image5 with scale_factor=0.7734824859051406
+2025-03-12 11:57:02,066 - INFO - Shift Image5 with shift_limit=0.04591356230308598
+2025-03-12 11:57:02,067 - INFO - Rotate Image5 with angle=-134.62676635339406
+2025-03-12 11:57:02,067 - INFO - Flip Image5 with flip_mode=1
+2025-03-12 11:57:02,067 - INFO - Applied filter for Image5 with filter_type=emboss
+2025-03-12 11:57:02,068 - INFO - Crop Image5 with crop_factor=0.9272147782952835
+2025-03-12 11:57:02,068 - INFO - Change Image5 color with color_mode=hsv_shift
+2025-03-12 11:57:02,069 - INFO - Image5 is successfully augmentated!
+2025-03-12 11:57:02,074 - INFO - For Image6 augmentation proccess starting!
+2025-03-12 11:57:02,075 - INFO - Scale Image6 with scale_factor=1.180971405502131
+2025-03-12 11:57:02,075 - INFO - Shift Image6 with shift_limit=0.014965339413175531
+2025-03-12 11:57:02,076 - INFO - Rotate Image6 with angle=-137.0105251837494
+2025-03-12 11:57:02,076 - INFO - Flip Image6 with flip_mode=0
+2025-03-12 11:57:02,077 - INFO - Applied filter for Image6 with filter_type=canny_edge
+2025-03-12 11:57:02,077 - INFO - Crop Image6 with crop_factor=0.9140357591058617
+2025-03-12 11:57:02,078 - INFO - Change Image6 color with color_mode=brightness
+2025-03-12 11:57:02,078 - INFO - Image6 is successfully augmentated!
+2025-03-12 11:57:02,093 - INFO - For Image7 augmentation proccess starting!
+2025-03-12 11:57:02,094 - INFO - Scale Image7 with scale_factor=1.0030433405069066
+2025-03-12 11:57:02,095 - INFO - Shift Image7 with shift_limit=0.22433876273033646
+2025-03-12 11:57:02,096 - INFO - Rotate Image7 with angle=77.00407421131302
+2025-03-12 11:57:02,096 - INFO - Flip Image7 with flip_mode=0
+2025-03-12 11:57:02,097 - INFO - Applied filter for Image7 with filter_type=sharpen
+2025-03-12 11:57:02,097 - INFO - Crop Image7 with crop_factor=0.9560173947589661
+2025-03-12 11:57:02,098 - INFO - Change Image7 color with color_mode=brightness
+2025-03-12 11:57:02,099 - INFO - Image7 is successfully augmentated!
+2025-03-12 11:57:02,127 - INFO - For Image8 augmentation proccess starting!
+2025-03-12 11:57:02,127 - INFO - Scale Image8 with scale_factor=1.336626945187399
+2025-03-12 11:57:02,128 - INFO - Shift Image8 with shift_limit=0.3194566117581395
+2025-03-12 11:57:02,129 - INFO - Rotate Image8 with angle=-42.81463973271511
+2025-03-12 11:57:02,129 - INFO - Flip Image8 with flip_mode=-1
+2025-03-12 11:57:02,130 - INFO - Applied filter for Image8 with filter_type=blur
+2025-03-12 11:57:02,130 - INFO - Crop Image8 with crop_factor=0.728502948578278
+2025-03-12 11:57:02,131 - INFO - Change Image8 color with color_mode=contrast
+2025-03-12 11:57:02,131 - INFO - Image8 is successfully augmentated!
+2025-03-12 11:57:02,198 - INFO - For Image9 augmentation proccess starting!
+2025-03-12 11:57:02,199 - INFO - Scale Image9 with scale_factor=0.47485219949293156
+2025-03-12 11:57:02,200 - INFO - Shift Image9 with shift_limit=0.3014081607348059
+2025-03-12 11:57:02,200 - INFO - Rotate Image9 with angle=20.869337220122418
+2025-03-12 11:57:02,201 - INFO - Flip Image9 with flip_mode=1
+2025-03-12 11:57:02,201 - INFO - Applied filter for Image9 with filter_type=canny_edge
+2025-03-12 11:57:02,202 - INFO - Crop Image9 with crop_factor=0.9749187246475972
+2025-03-12 11:57:02,202 - INFO - Change Image9 color with color_mode=saturation
+2025-03-12 11:57:02,203 - INFO - Image9 is successfully augmentated!
+2025-03-12 11:57:02,244 - INFO - For Image10 augmentation proccess starting!
+2025-03-12 11:57:02,245 - INFO - Scale Image10 with scale_factor=1.1669448921491674
+2025-03-12 11:57:02,246 - INFO - Shift Image10 with shift_limit=0.17971851963375193
+2025-03-12 11:57:02,246 - INFO - Rotate Image10 with angle=16.664056009074102
+2025-03-12 11:57:02,247 - INFO - Flip Image10 with flip_mode=0
+2025-03-12 11:57:02,247 - INFO - Applied filter for Image10 with filter_type=canny_edge
+2025-03-12 11:57:02,248 - INFO - Crop Image10 with crop_factor=0.7551947608899107
+2025-03-12 11:57:02,248 - INFO - Change Image10 color with color_mode=hsv_shift
+2025-03-12 11:57:02,249 - INFO - Image10 is successfully augmentated!
+2025-03-12 11:57:02,256 - INFO - Images augmention process successfully done!
+2025-03-12 11:57:02,257 - INFO - Started mask augmentation process
+2025-03-12 11:57:02,314 - INFO - For Mask1 augmentation proccess starting!
+2025-03-12 11:57:02,315 - INFO - Scale Mask1 with scale_factor=1.092882589274086
+2025-03-12 11:57:02,315 - INFO - Shift Mask1 with shift_limit=0.31033884811731227
+2025-03-12 11:57:02,316 - INFO - Rotate Mask1 with angle=23.984208921498748
+2025-03-12 11:57:02,316 - INFO - Flip Mask1 with flip_mode=1
+2025-03-12 11:57:02,317 - INFO - Applied filter for Mask1 with filter_type=sharpen
+2025-03-12 11:57:02,317 - INFO - Crop Mask1 with crop_factor=0.8463291875343298
+2025-03-12 11:57:02,318 - INFO - Change Mask1 color with color_mode=contrast
+2025-03-12 11:57:02,318 - INFO - Mask1 is successfully augmentated!
+2025-03-12 11:57:02,391 - INFO - For Mask2 augmentation proccess starting!
+2025-03-12 11:57:02,392 - INFO - Scale Mask2 with scale_factor=1.3264786691835408
+2025-03-12 11:57:02,393 - INFO - Shift Mask2 with shift_limit=0.3649388510062976
+2025-03-12 11:57:02,393 - INFO - Rotate Mask2 with angle=-95.3712495042171
+2025-03-12 11:57:02,394 - INFO - Flip Mask2 with flip_mode=0
+2025-03-12 11:57:02,394 - INFO - Applied filter for Mask2 with filter_type=blur
+2025-03-12 11:57:02,395 - INFO - Crop Mask2 with crop_factor=0.880569031236725
+2025-03-12 11:57:02,395 - INFO - Change Mask2 color with color_mode=brightness
+2025-03-12 11:57:02,396 - INFO - Mask2 is successfully augmentated!
+2025-03-12 11:57:02,434 - INFO - For Mask3 augmentation proccess starting!
+2025-03-12 11:57:02,435 - INFO - Scale Mask3 with scale_factor=1.0781972558597246
+2025-03-12 11:57:02,435 - INFO - Shift Mask3 with shift_limit=0.22678484163786802
+2025-03-12 11:57:02,435 - INFO - Rotate Mask3 with angle=-163.39532042616693
+2025-03-12 11:57:02,436 - INFO - Flip Mask3 with flip_mode=1
+2025-03-12 11:57:02,436 - INFO - Applied filter for Mask3 with filter_type=sharpen
+2025-03-12 11:57:02,437 - INFO - Crop Mask3 with crop_factor=0.7039328737395092
+2025-03-12 11:57:02,437 - INFO - Change Mask3 color with color_mode=contrast
+2025-03-12 11:57:02,438 - INFO - Mask3 is successfully augmentated!
+2025-03-12 11:57:02,443 - INFO - For Mask4 augmentation proccess starting!
+2025-03-12 11:57:02,444 - INFO - Scale Mask4 with scale_factor=0.7040170806175431
+2025-03-12 11:57:02,444 - INFO - Shift Mask4 with shift_limit=0.16892423507311302
+2025-03-12 11:57:02,445 - INFO - Rotate Mask4 with angle=31.278947229355452
+2025-03-12 11:57:02,445 - INFO - Flip Mask4 with flip_mode=-1
+2025-03-12 11:57:02,446 - INFO - Applied filter for Mask4 with filter_type=sharpen
+2025-03-12 11:57:02,446 - INFO - Crop Mask4 with crop_factor=0.8492835774753797
+2025-03-12 11:57:02,447 - INFO - Change Mask4 color with color_mode=saturation
+2025-03-12 11:57:02,447 - INFO - Mask4 is successfully augmentated!
+2025-03-12 11:57:02,450 - INFO - For Mask5 augmentation proccess starting!
+2025-03-12 11:57:02,451 - INFO - Scale Mask5 with scale_factor=0.6257585270928203
+2025-03-12 11:57:02,451 - INFO - Shift Mask5 with shift_limit=0.33423649184892834
+2025-03-12 11:57:02,452 - INFO - Rotate Mask5 with angle=37.931639362694966
+2025-03-12 11:57:02,452 - INFO - Flip Mask5 with flip_mode=1
+2025-03-12 11:57:02,453 - INFO - Applied filter for Mask5 with filter_type=emboss
+2025-03-12 11:57:02,453 - INFO - Crop Mask5 with crop_factor=0.8418968733557645
+2025-03-12 11:57:02,454 - INFO - Change Mask5 color with color_mode=contrast
+2025-03-12 11:57:02,454 - INFO - Mask5 is successfully augmentated!
+2025-03-12 11:57:02,461 - INFO - For Mask6 augmentation proccess starting!
+2025-03-12 11:57:02,461 - INFO - Scale Mask6 with scale_factor=1.0846460425587645
+2025-03-12 11:57:02,462 - INFO - Shift Mask6 with shift_limit=0.33141924585556853
+2025-03-12 11:57:02,462 - INFO - Rotate Mask6 with angle=-152.99723055022594
+2025-03-12 11:57:02,462 - INFO - Flip Mask6 with flip_mode=-1
+2025-03-12 11:57:02,463 - INFO - Applied filter for Mask6 with filter_type=sharpen
+2025-03-12 11:57:02,463 - INFO - Crop Mask6 with crop_factor=0.9749282593547504
+2025-03-12 11:57:02,464 - INFO - Change Mask6 color with color_mode=hsv_shift
+2025-03-12 11:57:02,465 - INFO - Mask6 is successfully augmentated!
+2025-03-12 11:57:02,470 - INFO - For Mask7 augmentation proccess starting!
+2025-03-12 11:57:02,470 - INFO - Scale Mask7 with scale_factor=1.0589682106953504
+2025-03-12 11:57:02,471 - INFO - Shift Mask7 with shift_limit=0.23844741578827428
+2025-03-12 11:57:02,471 - INFO - Rotate Mask7 with angle=-159.94435766892883
+2025-03-12 11:57:02,472 - INFO - Flip Mask7 with flip_mode=1
+2025-03-12 11:57:02,473 - INFO - Applied filter for Mask7 with filter_type=sharpen
+2025-03-12 11:57:02,473 - INFO - Crop Mask7 with crop_factor=0.9690246598299543
+2025-03-12 11:57:02,474 - INFO - Change Mask7 color with color_mode=hsv_shift
+2025-03-12 11:57:02,474 - INFO - Mask7 is successfully augmentated!
+2025-03-12 11:57:02,506 - INFO - For Mask8 augmentation proccess starting!
+2025-03-12 11:57:02,507 - INFO - Scale Mask8 with scale_factor=1.2039870134157813
+2025-03-12 11:57:02,508 - INFO - Shift Mask8 with shift_limit=0.34866146375574963
+2025-03-12 11:57:02,508 - INFO - Rotate Mask8 with angle=170.7911213700309
+2025-03-12 11:57:02,509 - INFO - Flip Mask8 with flip_mode=1
+2025-03-12 11:57:02,509 - INFO - Applied filter for Mask8 with filter_type=sharpen
+2025-03-12 11:57:02,510 - INFO - Crop Mask8 with crop_factor=0.8705356516992169
+2025-03-12 11:57:02,511 - INFO - Change Mask8 color with color_mode=saturation
+2025-03-12 11:57:02,511 - INFO - Mask8 is successfully augmentated!
+2025-03-12 11:57:02,520 - INFO - For Mask9 augmentation proccess starting!
+2025-03-12 11:57:02,520 - INFO - Scale Mask9 with scale_factor=0.515203375467287
+2025-03-12 11:57:02,521 - INFO - Shift Mask9 with shift_limit=0.17464837054542368
+2025-03-12 11:57:02,521 - INFO - Rotate Mask9 with angle=-27.029117129656555
+2025-03-12 11:57:02,522 - INFO - Flip Mask9 with flip_mode=0
+2025-03-12 11:57:02,523 - INFO - Applied filter for Mask9 with filter_type=blur
+2025-03-12 11:57:02,523 - INFO - Crop Mask9 with crop_factor=0.782813686102843
+2025-03-12 11:57:02,524 - INFO - Change Mask9 color with color_mode=saturation
+2025-03-12 11:57:02,524 - INFO - Mask9 is successfully augmentated!
+2025-03-12 11:57:02,611 - INFO - For Mask10 augmentation proccess starting!
+2025-03-12 11:57:02,612 - INFO - Scale Mask10 with scale_factor=0.7399935735668356
+2025-03-12 11:57:02,612 - INFO - Shift Mask10 with shift_limit=0.34414498444986313
+2025-03-12 11:57:02,613 - INFO - Rotate Mask10 with angle=169.75501012875088
+2025-03-12 11:57:02,613 - INFO - Flip Mask10 with flip_mode=-1
+2025-03-12 11:57:02,614 - INFO - Applied filter for Mask10 with filter_type=blur
+2025-03-12 11:57:02,615 - INFO - Crop Mask10 with crop_factor=0.8427920851420184
+2025-03-12 11:57:02,615 - INFO - Change Mask10 color with color_mode=brightness
+2025-03-12 11:57:02,616 - INFO - Mask10 is successfully augmentated!
+2025-03-12 11:57:02,631 - INFO - Masks augmention process successfully done!
